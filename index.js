@@ -28,5 +28,5 @@ const eventFiles = readdirSync(join(__dirname, "events")).filter((file) => file.
 
 // Autenticação
 console.log(`[SYSTEM] Running.`);
-client.login("NzM2MjcxNzY5MjkxMzI1NDkz.XxsYhQ.vOR__OmnaVP6NnOhNPcpIviGHG0")
+client.login("SEUTOKEN")
 console.log(`[DISCORD] Logged.`)
